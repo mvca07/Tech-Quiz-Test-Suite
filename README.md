@@ -19,7 +19,6 @@ SO THAT I can test my knowledge and improve my skills
 ```
   ## Acceptance Criteria
 
-  ```md
  ```md
 GIVEN I am taking a tech quiz
 WHEN I click the start button
