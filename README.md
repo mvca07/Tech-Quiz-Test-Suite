@@ -3,13 +3,13 @@
  Tech Quiz application and enhance it by adding Cypress for both component and end-to-end tests.
   
   ## Table of Contents
-  * [User Story](#UserStory)
-  * [Acceptance Criteria](#AcceptanceCriteria)
-  * [Technical Requirements](#TechnicalRequirements)
+  * [User Story](#userStory)
+  * [Acceptance Criteria](#acceptanceCriteria)
+  * [Technical Requirements](#technicalRequirements)
   * [Testing](#testing) 
   * [Contributors](#contributors)
   * [Questions](#questions)
-  * [Demo Walkthrough](#DemoWalkthrough)
+  * [Demo Walkthrough](#demoWalkthrough)
   ## User Story
 
  ```md
